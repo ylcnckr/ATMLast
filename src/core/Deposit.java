@@ -1,3 +1,8 @@
-Package core;
-Public class Deposit;
-//deposite created from github for practice
+package core;
+public class Deposit{
+
+
+
+}
+
+
